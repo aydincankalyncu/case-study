@@ -1,0 +1,17 @@
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/OcrParser
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/OcrParser.deps.json
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/OcrParser.runtimeconfig.json
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/OcrParser.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/OcrParser.pdb
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.csproj.AssemblyReference.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.AssemblyInfoInputs.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.AssemblyInfo.cs
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.csproj.Up2Date
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/refint/OcrParser.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.pdb
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/OcrParser.genruntimeconfig.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/OcrParser/obj/Debug/net9.0/ref/OcrParser.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionCodeGenerator", "PromotionCodeGenerator\PromotionCodeGenerator.csproj", "{06563D95-4035-4ED4-93ED-9BBD706DC06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrParser", "OcrParser\OcrParser.csproj", "{B9951E90-5487-422B-9304-2709E07B4ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06563D95-4035-4ED4-93ED-9BBD706DC06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06563D95-4035-4ED4-93ED-9BBD706DC06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06563D95-4035-4ED4-93ED-9BBD706DC06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06563D95-4035-4ED4-93ED-9BBD706DC06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9951E90-5487-422B-9304-2709E07B4ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9951E90-5487-422B-9304-2709E07B4ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9951E90-5487-422B-9304-2709E07B4ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9951E90-5487-422B-9304-2709E07B4ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

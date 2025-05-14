@@ -1,0 +1,14 @@
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/bin/Debug/net9.0/PromotionCodeGenerator
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/bin/Debug/net9.0/PromotionCodeGenerator.deps.json
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/bin/Debug/net9.0/PromotionCodeGenerator.runtimeconfig.json
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/bin/Debug/net9.0/PromotionCodeGenerator.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/bin/Debug/net9.0/PromotionCodeGenerator.pdb
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.AssemblyInfoInputs.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.AssemblyInfo.cs
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/refint/PromotionCodeGenerator.dll
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.pdb
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/PromotionCodeGenerator.genruntimeconfig.cache
+/Users/user/Desktop/Projects/PersonalIssues/UtilProjects/StudyCase/PromotionCodeGenerator/obj/Debug/net9.0/ref/PromotionCodeGenerator.dll
